@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+  default_repocard: {
+    title_color: "2f80ed",
+    icon_color: "586069", // icon color is different
+    text_color: "333",
+    bg_color: "fffefe",
+  },
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=awrde)](https://github.com/anuraghazra/github-readme-stats)
